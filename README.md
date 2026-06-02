@@ -6,9 +6,9 @@
 
 <img height="250" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ5d2RldjNpdzY3YW11djg1YTF6ZG9hNW1iN2Ztbm8yMW42Y2h0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif](https://giffiles.alphacoders.com/130/130032.gif)"/>
 
-</div>
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%F0%9F%92%BB;Futura+Engenheira+de+Software+%F0%9F%9A%80;Desenvolvedora+Full+Stack+em+Forma%C3%A7%C3%A3o+%F0%9F%8C%9F" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=800&lines=⚡+Capturando+Conhecimento;💻+Estudante+de+ADS;🚀+Futura+Engenheira+de+Software;🌟+Desenvolvedora+Full+Stack+em+Formação" />
 
 </div>
 
