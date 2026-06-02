@@ -1,10 +1,4 @@
-<div align="center">
-
-# 🌟 Olá, eu sou a Gisele Rodrigues!
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:8a2be2&height=200&section=header&text=Gisele%20Rodrigues&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:8a2be2&height=200&section=header&text=🌟 Olá, eu sou a Gisele Rodrigues!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
