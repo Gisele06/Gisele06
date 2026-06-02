@@ -44,19 +44,19 @@
 
 ### Front-end
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" />
 </p>
 
 ### Back-end
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,mysql" />
 </p>
 
 ### Ferramentas
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,figma" />
 </p>
 
