@@ -12,15 +12,23 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://gisele06.github.io/portfolio/">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGdnemIwdG4xbHU0M3NkdHV0cDdsOHdscW9pbXFxM2Z4MGM0a3B3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uWLJEGCSWdmvK/200.gif" width="250"/>
+</a>
+
+</div>
+
 ## 🎓 Sobre Mim
 
-- 👩‍💻 Meu nome é **Gisele Rodrigues**
-- 🎂 17 anos
-- 📚 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🏫 SENAI Jandira
-- 🚀 Buscando me tornar uma **Desenvolvedora Full Stack**
-- 🎯 Futuro objetivo: cursar **Engenharia de Software**
-- 🌱 Sempre aprendendo novas tecnologias
+👩‍💻 Meu nome é **Gisele Rodrigues**
+🎂 17 anos
+📚 Estudante de **Análise e Desenvolvimento de Sistemas**
+🏫 SENAI Jandira
+🚀 Buscando me tornar uma **Desenvolvedora Full Stack**
+🎯 Futuro objetivo: cursar **Engenharia de Software**
+🌱 Sempre aprendendo novas tecnologias
 
 ---
 <div align="center">
@@ -75,9 +83,9 @@ https://github.com/Gisele06/Galeria
 
 ### Tecnologias
 
-- HTML
-- CSS
-- JavaScript
+HTML
+CSS
+JavaScript
 
 ---
 
@@ -91,11 +99,11 @@ https://gisele06.github.io/portfolio/
 
 Inclui:
 
-- Landing Page Pikachu
-- Projetos Front-end
-- Exercícios JavaScript
-- Layouts Responsivos
-- Estudos diversos
+Landing Page Pikachu
+Projetos Front-end
+Exercícios JavaScript
+Layouts Responsivos
+Estudos diversos
 
 ---
 
@@ -111,20 +119,20 @@ https://github.com/Gisele06/06-mini-projetos-2-Gisele06
 
 Geração automática de:
 
-- Contagem
-- Números pares
-- Números ímpares
-- Múltiplos de 5
-- Potências de 2
+Contagem
+Números pares
+Números ímpares
+Múltiplos de 5
+Potências de 2
 
 ### 📚 Tabuada Estendida
 
 Operações:
 
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
+Soma
+Subtração
+Multiplicação
+Divisão
 
 Com destaque visual para valores negativos.
 
@@ -132,10 +140,10 @@ Com destaque visual para valores negativos.
 
 Simulação completa de:
 
-- Parcelas
-- Juros compostos
-- Saldo devedor
-- Evolução mensal
+Parcelas
+Juros compostos
+Saldo devedor
+Evolução mensal
 
 ---
 
