@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ## 🎓 Sobre Mim
 
 - 👩‍💻 Meu nome é **Gisele Rodrigues**
@@ -33,7 +31,6 @@
 ![](https://img.shields.io/badge/Location-Brasil-green?style=for-the-badge)
 
 </div>
----
 
 ## 🛠️ Tecnologias
 
@@ -57,41 +54,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gisele06&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisele06&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Gisele's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gisele06&theme=tokyo-night)](https://github.com/Gisele06)
-
-</div>
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gisele06&theme=tokyonight" />
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gisele06&theme=tokyonight&column=4"/>
 
 </div>
 
@@ -203,37 +170,6 @@ Simulação completa de:
 
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Gisele06/Gisele06/output/github-contribution-grid-snake-dark.svg">
-</p>
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Gisele06
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 <div align="center">
 
