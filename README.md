@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:8a2be2&height=200&section=header&text=🌟 Olá, eu sou a Gisele Rodrigues!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="1280" height="640" alt="Gisele" align="center" src="https://github.com/user-attachments/assets/b2e26a60-d3a5-4c69-84ef-921427021fdb" />
 
 </div>
 
