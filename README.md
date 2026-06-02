@@ -2,6 +2,18 @@
 
 # 🌟 Olá, eu sou a Gisele Rodrigues!
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:8a2be2&height=200&section=header&text=Gisele%20Rodrigues&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
+
+<div align="center">
+
+<img height="250" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ5d2RldjNpdzY3YW11djg1YTF6ZG9hNW1iN2Ztbm8yMW42Y2h0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif](https://giffiles.alphacoders.com/130/130032.gif)"/>
+
+</div>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%F0%9F%92%BB;Futura+Engenheira+de+Software+%F0%9F%9A%80;Desenvolvedora+Full+Stack+em+Forma%C3%A7%C3%A3o+%F0%9F%8C%9F" />
 
 </div>
@@ -18,6 +30,15 @@
 - 🎯 Futuro objetivo: cursar **Engenharia de Software**
 - 🌱 Sempre aprendendo novas tecnologias
 
+---
+<div align="center">
+
+![](https://img.shields.io/badge/ADS-SENAI-blue?style=for-the-badge)
+![](https://img.shields.io/badge/FullStack-In%20Progress-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Age-17-pink?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Brasil-green?style=for-the-badge)
+
+</div>
 ---
 
 ## 🛠️ Tecnologias
@@ -52,6 +73,14 @@
 
 </div>
 
+---
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Gisele's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gisele06&theme=tokyo-night)](https://github.com/Gisele06)
+
+</div>
 ---
 
 ## 🔥 GitHub Streak
@@ -151,7 +180,6 @@ Simulação completa de:
 
 ## 📚 Atualmente Estudando
 
-```txt
 ✅ HTML
 ✅ CSS
 ✅ JavaScript
@@ -162,13 +190,6 @@ Simulação completa de:
 
 🔄 Java
 🔄 Python
-
-🎯 Próximos passos:
-- React
-- APIs REST
-- Banco de Dados Avançado
-- Engenharia de Software
-```
 
 ## 📫 Contato
 
@@ -193,11 +214,39 @@ Simulação completa de:
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Gisele06/Gisele06/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Gisele06/Gisele06/output/github-contribution-grid-snake-dark.svg">
 </p>
+name: Generate Snake
 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Gisele06
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=Gisele06&label=VISITANTES&color=blueviolet&style=for-the-badge)
+
+</div>
+---
 <div align="center">
 
 ✨ Obrigada por visitar meu perfil! ✨
